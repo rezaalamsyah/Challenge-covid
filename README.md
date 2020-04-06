@@ -6,3 +6,4 @@ anda bisa mengisi tabel lain dengan cara mengklik tambah data dibagian atas dan 
 lalu jika sudah selesai mengisi anda cukup klik simpan dan akan tersimpan dalam database
 
 NB : maaf folder fontawesome di tampilan berantakan sekali
+jika anda ingin download sendiri anda bisa mendownload yang rapi di sini :https://fontawesome.com/
